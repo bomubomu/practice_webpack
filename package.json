@@ -1,0 +1,24 @@
+{
+  "name": "udemy-webpack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bomubomu/practice_webpack.git"
+  },
+  "author": "bomubomu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bomubomu/practice_webpack/issues"
+  },
+  "homepage": "https://github.com/bomubomu/practice_webpack#readme",
+  "privage": true,
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
